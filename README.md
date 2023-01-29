@@ -18,7 +18,10 @@ This Project is a 7 Layer CNN Model consisting of 3 Convolution layers each foll
 
 
 ## Project Implementation Video :
-https://user-images.githubusercontent.com/77832407/215328411-43614891-1561-46d3-9fd6-b18a7b9c4d61.mp4
+
+
+https://user-images.githubusercontent.com/77832407/215329706-5290af09-dc39-4099-a1d1-00fbcdcf8ca0.mp4
+
 
 
 ## Model Summary
